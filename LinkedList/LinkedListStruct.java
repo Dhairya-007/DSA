@@ -1,17 +1,6 @@
 package LinkedList;
 
 /*
- ============================================================
-                    COMPLETE LINKED LIST GUIDE
- ============================================================
-
- Author  : Aman Oza
- Purpose : DSA + Interview Preparation
-
- ------------------------------------------------------------
- WHAT THIS FILE TEACHES:
- ------------------------------------------------------------
-
  1) How to create a Node (Global Template)
  2) Convert Array → Linked List
  3) Length of Linked List
